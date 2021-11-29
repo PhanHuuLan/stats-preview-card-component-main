@@ -124,6 +124,9 @@ body {
     body {
         font-size: 12px;
     }
+    .container {
+        max-width: 740px;
+    }
     .text-component {
         padding: 12%;
     }
